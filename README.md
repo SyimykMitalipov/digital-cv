@@ -35,7 +35,7 @@ Professional chauffeur service available in over 300 cities worldwide.
 ## 📌 Volunteering
 
  **Mentoring for students** @ [Write the Doc](https://www.instagram.com/p/Cefby7UtNib/) _(March 2022 - Present)_<br>
-Mentoring for students. Studying front-end development. **_React, Redux, HTML, CSS_**.**_ Creating projects with mentii
+Mentoring for students. Studying front-end development. **_React, Redux, HTML, CSS_**Creating projects with mentii
   - Passage of open lessons for students on Front-end development
   <br><br>
 
@@ -53,7 +53,7 @@ Mentoring for students. Studying front-end development. **_React, Redux, HTML, C
 
 **Thank you letter from the university** @ [For mentoring students]_(January, 2023)_ <br>
 thank you letter from the university
-  - Helped students master the basics of <br>JS, React, Redux, HTML,CSS.</br>
+  - Helped students master the basics of **_JS, React, Redux, HTML,CSS._**
   - He actively helped in the development of mentoring programs at the university.
   - Participated in open projects to help students learn.
   - Participated in the creation of the curriculum for students.
