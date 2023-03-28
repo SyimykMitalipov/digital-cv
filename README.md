@@ -4,7 +4,7 @@ _Software Front-end engineer from Kyrgyzstan, Bishkek  🇰🇬_ <br>
 
 [Email](mailto:syimyk310703@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/syimyk-mitalipov-67a327223/) / [GitHub](https://github.com/SyimykMitalipov/) / [Telegram](https://t.me/syimyk_mitalipov)
 
-Hello! I am a front-end developer with 1.5 years of experience specializing in web application development using **_React, Redux, MUI, TypeScript, Webpack, babel, Redux-toolkit and Next.js._**
+Hello! I am a front-end developer with 1.7 years of experience specializing in web application development using **_React, Redux, MUI, TypeScript, Webpack, babel, Redux-toolkit and Next.js._**
 
 During this time, I gained experience in designing UI components, writing code to manage application state, interacting with the server side of an application, and optimizing application performance. I have worked with **_Redux_** tools like **_Redux-thunk_** and **_Redux-saga_** as well as **_Redux-toolkit_** for faster and more efficient development.
 
